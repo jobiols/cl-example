@@ -9,18 +9,14 @@
     'summary': "Project example for v13 CE",
     'author': "jeo Software",
     'license': 'AGPL-3',
-    'depends': [
-        'sale_management',
-        'crm'
-    ],
+    'depends': [],
     'installable': True,
     'application': False,
 
-    'config': [],
-    'port': '8069',
+    'env-ver': '2',
 
     'git-repos': [
-        'https://github.com/jobiols/cl-example.git',
+        'https://github.com/jobiols/cl-myproject.git',
         'https://github.com/ingadhoc/odoo-argentina.git',
     ],
 

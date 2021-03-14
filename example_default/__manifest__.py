@@ -16,7 +16,6 @@
     'installable': True,
     'application': False,
 
-    'env-ver': '2',
     'config': [],
     'port': '8069',
 

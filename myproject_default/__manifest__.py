@@ -16,7 +16,7 @@
 
     'env-ver': '2',
     'config': [
-                'workers = 4,
+                'workers = 4',
                 'max_cron_threads = 1',
                 'admin_passwd = k0923%098',
                 'proxy_mode = True',

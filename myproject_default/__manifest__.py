@@ -21,8 +21,8 @@
                 'admin_passwd = k0923%098',
                 'proxy_mode = True',
                 'list_db = False',
-              ]
-    'config-local': ['admin_passwd = admin',]
+              ],
+    'config-local': ['admin_passwd = admin'],
     'git-repos': [
         'https://github.com/jobiols/cl-myproject.git',
         'https://github.com/ingadhoc/odoo-argentina.git',
